@@ -1,5 +1,4 @@
-Welcome to Ali's GitHub
-Hello! I'm Ali Dehdashti, a seasoned lawyer in Iran and a newly qualified solicitor in England and Wales, currently pursuing my PhD at King's College London. My thesis focuses on the future of dispute resolution in financial markets, with a particular emphasis on the application of international arbitration in financial disputes.
+I'm Ali Dehdashti, a seasoned lawyer in Iran and a newly qualified solicitor in England and Wales, currently pursuing my PhD at King's College London. My thesis focuses on the future of dispute resolution in financial markets, with a particular emphasis on the application of international arbitration in financial disputes.
 
 About Me
 🎓 Educational Background: PhD student in Law at King's College London.
